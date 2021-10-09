@@ -14,3 +14,5 @@
 #### Commands
 **npm** i `--save` graphql <br>
 **npm** i `--save-dev` serverless serverless-offline eslint
+<br>
+> **Note:** Please don't push package.json & package-lock.json changes unless you added a new package
