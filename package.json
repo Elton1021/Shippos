@@ -1,0 +1,20 @@
+{
+  "name": "shippos",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serverless offline"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "serverless": "^2.62.0",
+    "serverless-offline": "^8.2.0"
+  },
+  "dependencies": {
+    "graphql": "^15.6.1"
+  }
+}

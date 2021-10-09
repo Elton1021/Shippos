@@ -1,0 +1,8 @@
+{
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "eslint.format.enable": true,
+  "editor.detectIndentation": false,
+  "eslint.alwaysShowStatus": true
+}
